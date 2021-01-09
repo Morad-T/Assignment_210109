@@ -15,7 +15,7 @@ unsigned long long int Factorial(int n)
 
 int main()
 {
-	//cout << Factorial(20); uncomment if and when the function brakes
+	//cout << Factorial(20);// uncomment if and when the function brakes
 	long double x, sum = 0;
 	unsigned long long int S;
 	int i;
